@@ -9,8 +9,10 @@
 # Ignore temporary files
 *~
 *.tmp
+*.iso
 
 # Ignore directories
 /bin/
 /obj/
 /limine
+/iso_root
